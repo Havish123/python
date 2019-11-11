@@ -1,3 +1,4 @@
+#find the prime numbers less than n using python
 import time
 import math
 def prime(n):
